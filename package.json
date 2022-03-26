@@ -1,0 +1,19 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "M. David Ramiro <dramirobarragan@gmail.com>",
+  "scripts": {
+    "build": "wp --mode production"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-nano": "^1.1.1"
+  },
+  "dependencies": {
+    "mini-html-webpack-plugin": "^3.1.3"
+  }
+}
